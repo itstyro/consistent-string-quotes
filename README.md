@@ -1,6 +1,6 @@
 
 
-<b>The module consistent-string-quotes makes the string representation consistent throughout the javascript files in a project.</b>
+<h1>The module consistent-string-quotes makes the string representation consistent throughout the javascript files in a project.</h1>
 
 <b>What it does ?</b>
 
