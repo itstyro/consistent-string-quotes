@@ -9,4 +9,3 @@ prerequisites:
 
 Configuration:
  1) use properties.ini file to configure the project
-
