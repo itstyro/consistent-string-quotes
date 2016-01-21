@@ -1,0 +1,19 @@
+{
+  "name": "ConsistentStringQuotes",
+  "version": "1.0.0",
+  "description": "this module helps to make the string representations consistent throught all javascript files",
+  "main": "consistentStringQuotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quotes"
+  ],
+  "author": "Munish Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "esprima": "^2.7.1",
+    "properties-reader": "0.0.15",
+    "recursive-readdir": "^1.3.0"
+  }
+}
